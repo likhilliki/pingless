@@ -1,0 +1,6 @@
+{
+  "name": "Pingless",
+  "description": "No reminders needed—you never forget. Intelligent automated scanning of email registrations and Google Calendar to centralize and plan your upcoming events without active notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
