@@ -16,8 +16,7 @@
 
 ### 🚀 Vibe2Ship Hackathon Project
 
-*"Life doesn't need more reminders. It needs intelligence."
-Live url : https://finpilot-743044062934.us-west1.run.app/*
+*"Life doesn't need more reminders. It needs intelligence."*
 
 </div>
 
